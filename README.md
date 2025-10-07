@@ -1,4 +1,4 @@
-Gerador de Planilhas de Disparo (Frexco)
+Gerador de Planilhas de Disparo 
 
 Aplicativo em Python + Tkinter para gerar automaticamente planilhas Excel segmentadas a partir de uma base original de contatos — ideal para disparos e campanhas de prospecção via WhatsApp.
 
